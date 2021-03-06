@@ -35,7 +35,7 @@ app.component("body-component", {
   template: 
     `
     <div style="text-align: center">
-    <a href="index.html"><b>&lt;&lt; back to main website &lt;&lt;</b></a><br>
+    <a href="https://earthernsence.github.io/"><b>&lt;&lt; back to main website &lt;&lt;</b></a><br>
     <a href="https://github.com/earthernsence/accent-copier/tree/main/">code</a>
     <h1 style="color:white">earth's accent copier</h1>
     <h2 style="color:white">&#128578; pain &#128578;</h2>
