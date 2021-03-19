@@ -13,7 +13,11 @@ const accents = [{ name: "C with cedilla (l)", content: "\u{000E7}" },
   { name: "E with grave (u)", content: "\u{00C8}" },
   { name: "E with grave (l)", content: "\u{00E8}" },
   { name: "E with acute (u)", content: "\u{00C9}" },
-  { name: "E with acute (l)", content: "\u{00E9}" }];
+  { name: "E with acute (l)", content: "\u{00E9}" },
+  { name: "AE ligature (u)", content: "\u{00C6}" },
+  { name: "AE ligature (l)", content: "\u{00E6}" },
+  { name: "OE ligature (u)", content: "\u{00152}" },
+  { name: "OE ligature (l)", content: "\u{00153}" }];
 
 app.component("body-component", {
   created() {
